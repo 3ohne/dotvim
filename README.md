@@ -1,7 +1,8 @@
 VIM CONFIG DIRECTORY
 ====================
 
-for setup run:
+SETUP
+-----
 
     git clone https://github.com/3ohne/dotvim.git ~/.vim
     cd ~/.vim
