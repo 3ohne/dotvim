@@ -1,6 +1,8 @@
-my vim config directory
+VIM CONFIG DIRECTORY
+====================
 
 for setup run:
+
     git clone https://github.com/3ohne/dotvim.git ~/.vim
     cd ~/.vim
     git submodule init
